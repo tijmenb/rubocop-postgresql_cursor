@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Enforce usage of each_instance over find_each.}
   spec.description   = %q{Enforce usage of the postgresql_cursor gem in Rails
                           projects. }
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tijmenb/rubocop-postgresql_cursor"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
